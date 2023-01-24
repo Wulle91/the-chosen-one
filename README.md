@@ -1,5 +1,4 @@
 # My very first website
 
-welcome! [Code Institute] (https://codeinstitute.net)
-
-hy
+welcome! [Code Institute](https://codeinstitute.net)
+ok
